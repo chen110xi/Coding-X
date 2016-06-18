@@ -11,7 +11,7 @@ $ ssh username@cli.coding.net  (username 为你的 Coding 个性后缀)
                          |___/
 Welcome to coding-cli.
 
-tvvocold $ help
+$ help
 NAME:
    coding - coding.net command line tool
 
